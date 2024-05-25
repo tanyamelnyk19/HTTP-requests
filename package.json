@@ -1,0 +1,27 @@
+{
+  "name": "HTTP-requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanyamelnyk19/HTTP-requests.git"
+  },
+  "keywords": [],
+  "author": "Tanya Melnyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanyamelnyk19/HTTP-requests/issues"
+  },
+  "homepage": "https://github.com/tanyamelnyk19/HTTP-requests#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "dependencies": {}
+}
